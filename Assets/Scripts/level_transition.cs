@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class level_transition : MonoBehaviour
 {
-    public void changeScene(int scene)
+    public void change_scene(int scene)
     {
         SceneManager.LoadScene(scene);
     }

@@ -539,7 +539,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7873298318353151193, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
   m_PrefabInstance: {fileID: 7873298319061820323}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &329622267
+--- !u!114 &329622263
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2302,14 +2302,14 @@ PrefabInstance:
     - target: {fileID: 7873298318353151199, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 329622267}
+      objectReference: {fileID: 329622263}
     - target: {fileID: 7873298318353151199, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 7873298318353151199, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: changeScene
+      value: change_scene
       objectReference: {fileID: 0}
     - target: {fileID: 7873298318353151199, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -2317,7 +2317,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7873298318353151199, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7873298318353151199, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -2390,7 +2390,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8220863550913209915, guid: aacec2ca089919d4b9d0841b3dd65361, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.1301711
+      value: 1.05
       objectReference: {fileID: 0}
     - target: {fileID: 8220863550913209915, guid: aacec2ca089919d4b9d0841b3dd65361, type: 3}
       propertyPath: m_LocalPosition.y
