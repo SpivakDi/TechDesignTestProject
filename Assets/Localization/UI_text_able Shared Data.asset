@@ -23,6 +23,14 @@ MonoBehaviour:
     m_Key: key_exit
     m_Metadata:
       m_Items: []
+  - m_Id: 44047219466240
+    m_Key: key_click_hero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44061421379584
+    m_Key: key_click_enemy
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

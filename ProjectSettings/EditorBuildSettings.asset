@@ -12,5 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/second_scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 3057168556a83004bbd8080a181e0a7f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a555345cec0a04d40b7970e5f8f63a53, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 3847ef9f2e30cf942a77604ee6321487, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: 539f24230c47b2f4c82e7f35d0860cb6, type: 2}

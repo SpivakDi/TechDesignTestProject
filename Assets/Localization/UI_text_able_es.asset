@@ -26,6 +26,14 @@ MonoBehaviour:
     m_Localized: Nivel anterior
     m_Metadata:
       m_Items: []
+  - m_Id: 44047219466240
+    m_Localized: Haz click en mi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44061421379584
+    m_Localized: Mi turno
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

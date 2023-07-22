@@ -130,6 +130,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 178464225066037501, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2186510208471851375, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -954.329
+      objectReference: {fileID: 0}
+    - target: {fileID: 2186510208471851375, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -538.57465
+      objectReference: {fileID: 0}
+    - target: {fileID: 4711514155936965717, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4711514155936965717, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4711514155936965717, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4711514155936965717, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4278190080
+      objectReference: {fileID: 0}
     - target: {fileID: 7873298317799328847, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_Name
       value: canvas
@@ -140,12 +168,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7873298318217414720, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_fontSize
-      value: 0.03
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 7873298318217414720, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_fontAsset
       value: 
       objectReference: {fileID: 11400000, guid: 11664a563479cb94b871306797fd112f, type: 2}
+    - target: {fileID: 7873298318217414720, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_fontColor.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873298318217414720, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_fontColor.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7873298318217414720, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_fontColor.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7873298318217414720, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_fontSizeMin
       value: 0.03
@@ -158,13 +198,17 @@ PrefabInstance:
       propertyPath: m_enableAutoSizing
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7873298318217414720, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7873298318217414721, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_SizeDelta.y
       value: 0.08
       objectReference: {fileID: 0}
     - target: {fileID: 7873298318217414721, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.053
+      value: -0.071
       objectReference: {fileID: 0}
     - target: {fileID: 7873298318217414722, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_Name
@@ -178,6 +222,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7873298318353151198, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1eef6051f25e5514fa88796e56cd9254, type: 3}
     - target: {fileID: 7873298318353151198, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -700,6 +748,62 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1460277966 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7664450214129421431, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+  m_PrefabInstance: {fileID: 130356876}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1460277968 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4711514155936965717, guid: a3a85cb79955bf647b47d6c0ff2718c5, type: 3}
+  m_PrefabInstance: {fileID: 130356876}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1460277970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460277966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56eb0353ae6e5124bb35b17aff880f16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_StringReference:
+    m_TableReference:
+      m_TableCollectionName: GUID:19a48b7e9219728428aaea3005641c15
+    m_TableEntryReference:
+      m_KeyId: 44061421379584
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  m_FormatArguments: []
+  m_UpdateString:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1460277968}
+        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
+        m_MethodName: set_text
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  references:
+    version: 2
+    RefIds: []
 --- !u!4 &1746970006 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2533672823584180957, guid: 19a5fffadaf3fb6489ccd41e60587eb0, type: 3}
