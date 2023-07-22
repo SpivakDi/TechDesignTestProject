@@ -397,7 +397,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: hero
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3268213894155699073, guid: 19a5fffadaf3fb6489ccd41e60587eb0, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 19a5fffadaf3fb6489ccd41e60587eb0, type: 3}
 --- !u!1 &956590259 stripped
 GameObject:
